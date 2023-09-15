@@ -1,0 +1,199 @@
+Estadisticas:
+-Salud
+-Zen
+-Combate
+-Defensa
+-Acrobacia
+-Evasión
+-Precisión
+
+
+
+Lista de habilidades:
+---------Obligatorias-----------
+-Físico
+-Voluntad
+---------Obligatorias-----------
+
+---------De clase---------------
+-Ninjutsu (Solo para shinobis)
+-Genjutsu (Solo para shinobis)
+-Esgrima (Solo para samurai)
+-Corpulencia (Solo para luchadores cuerpo a cuerpo)
+---------De clase---------------
+
+---------Comunes----------------
+-Destreza manual
+-Saber
+-Agilidad
+-Punteria
+-Carisma
+-Engañar
+-Percepcion
+-Provocar
+-Robar
+-Sigilo
+---------Comunes----------------
+
+
+---------------------------Clases-------------------------------------------
+-Shinobi
+	Shinobi de ninjutsu elemental 
+		Elementos:
+---------------------------------------(Solo puede escoger un elemento y una habilidad inicialmente)-------------------------------------------
+
+		-Fuego  (Habilidades con un enfoque puramente agresivo)
+			(Físico 4, Voluntad 2, 7 Salud)
+			(Bueno en Combate (+3))(Normal en evasión y acrobacia (+1))(Malo en precisión, defensa (+0))		
+				Habilidades:
+					-Manipulación de fuego  	(Manipula el fuego existente, sin embargo, no lo crea de la nada ni lo aumenta)
+					-Emisión de fuego		(Emite fuego con la energia propia del usuario directamente proporcional al físico del usuario) (Puede inflingir quemadura)
+					-Potenciador del fuego		(Potencia el fuego existente a directamente proporcional a la voluntad del usuario)
+					
+		-Agua   (Habilidades principalmente curativas)
+			(Físico 2, Voluntad 4, 7 Salud)
+			(Bueno en acrobacia y defensa (+2))(Normal en precisión (+1))(Malo en evasión y Combate (+0))
+				Habilidades:
+					-Manipulación de agua   	(Manipula el agua existente, sin embargo, no la crea de la nada ni la aumenta. Permite retirar el estrés físico de una persona en una unidad)
+					-Emisión de agua		(Emite agua con la energia propia del usuario directamente proporcional a la voluntad del usuario)
+					-Cambio del estado		(Permite cambiar el estado del agua) (Puede inflingir congelamiento)
+
+		-Tierra (Habilidades con un enfoque puramente defensivo)
+			(Físico 3, Voluntad 3, 7 Salud)
+			(Bueno en defensa (+3))(Normal en precisión y evasión (+1))(Malo en acrobacia y Combate (+0))
+				Habilidades:
+					-Manipulación de la tierra	(Manipula secciones de tierra existentes, directamente proporcional al físico del usuario) (Puede inflingir confusión)
+					-Potenciador de la tierra	(Aumenta la cantidad de tierra que toca el usuario directamente proporcional a la voluntad)
+					-Cambio de la densidad		(Cambia la densidad de la tierra para aumentar el peso o volverla más ligera)
+
+
+-----------------------------------------(Solo puede escoger un elemento pero puede ocupar todas las habilidades)--------------------------------------------
+
+		-Aire 	(Habilidades balanceadas entre agresión y evasión sin destacar en ninguna)
+			(Físico 1, Voluntad 5, 7 Salud)
+			(Bueno en evasión y acrobacia (+2))(Normal en Combate (+1))(Malo en precisión y defensa (+0))
+				Habilidades:
+					-Emisor de aire			(Emite aire con la energia propia del usuario directamente proporcional a la voluntad del usuario, sirve tanto defensiva como agresivamente)
+					-Levitación			(Permite evitar caidas letales avanzar verticalmente grandes distancias, sin embargo no es permanente el estado)
+
+		-Rayo	(Habilidades principalmente de efectos paralizadores)
+			(Físico 5, Voluntad 1, 7 Salud)
+			(Bueno en Combate (+3))(Normal en precisión y defensa (+1))(Malo en acrobacia y evasión(+0))			
+				Habilidades:
+					-Emisor del rayo		(Emite rayos con la energia propia del usuario directamente proporcional al físico del usuario) (Puede causar paralización)
+					-Campo electrico		(Permite crear un campo eléctrico alrededor que extiende los sentidos del usuario) (Puede causar paralización si entran en contacto con el campo)
+
+
+-----------------------------------------(Solo puede especializarse en uno pero puede ocupar todas las habilidades)--------------------------------------------
+	Shinobi de genjutsu
+		(Físico 3, Voluntad 3, 6 Salud)
+		(Bueno en ataque (+2))(Normal en precisión, defensa y evasión (+1))(Malo en acrobacia (+0))
+				Habilidades:	
+					-Sigilo crítico 		(Permite entrar en sigilo con mayor facilidad, si se especializa en sigilo su ataque tras salir de sigilo siempre es crítico)				
+					-Ataque directo a la voluntad	(Ilusiones mentales que inflingen estres mental directo directamente proporcional a la voluntad del usuario)
+					-Ilusiones ópticas		(Permite crear ilusiones ópticas como clones, desorientación, objetos inexistentes o eventos que realmente no estan sucediendo en la realidad)
+					-Interrupción de sentidos 	(Permite limitar uno de los sentidos con eficacia directamente proporcional a la voluntad del usuario)
+
+---------------------------Clases-------------------------------------------
+
+
+---------------------------Clases-------------------------------------------
+-Samurai 
+	Samurai de Katana
+		(Físico 4, Voluntad 2, 8 Salud) 	
+		(Bueno en precisión y Combate (+2))(Normal en acrobacia (+1))(Malo en defensa y evasión (+0))
+		Arma: Katana (Sable muy rápido de daño normal)	
+			Habilidades:
+			-Tajo umbrio 		(Puede causar confusión)
+			-Tajo tóxico 		(Puede causar envenenamiento)
+			-Tajo aereo  		(Tiene prioridad siempre en movimientos aereos al atacar)			
+
+	Samurai de Armadura blindada
+		(Físico 3, Voluntad 3, 8 Salud)
+		Arma: Kanabo    
+		(Bueno en defensa y Combate (+2))(Normal en precisión (+1))(Malo en acrobacia y precisión (+0))
+			Habilidades:
+			-Carga dragón		(En tirada crítica puede volver a tirar)
+			-Carga meteoro		(En tirada terrible puede volver a tirar)
+			-Carga bis		(Causa confusión si el objetivo es Armadura blindada)
+
+	Samurai de Nodachi
+		(Físico 2, Voluntad 4, 8 Salud)
+		(Bueno en Combate (+2))(Normal en precisión, defensa y evasión (+1))(Malo en acrobacia (+0))
+		Arma: Nodachi (Gran sable lento de daño grande)
+			Habilidades:
+			-Golpe sombra		(Después de efectuar el golpe entra en sigilo)
+			-Golpe umbrio		(Puede causar confusión)
+			-Golpe de luz		(En tirada crítica paralizar al objetivo)
+
+	Samurai de Arco	 
+		(Físico 5, Voluntad 1, 8 Salud)
+		(Bueno en acrobacia, precisión (+2))(Normal en Combate (+1))(Malo en defensa y evasión (+0))
+		Arma: Yumi (Arco muy rápido de daño normal)
+			Habilidades:
+			-Disparo de redes	(Reduce la evasión y la acrobacia en las tiradas)
+			-Disparo paralizador	(Paraliza si la tirada es normal o superior)
+			-Disparo tóxico		(Causa envenenamiento si la tirada es normal o superior)
+
+---------------------------Clases-------------------------------------------
+
+
+
+-Zen (Energia que se representa como la suma del físico más la voluntad)
+(Arte marcial que enseña a utilizar el fisico y la voluntad (Zen) al máximo para combatir)
+-----------------------------------------------------------------------------------------------------------------------------
+Naturalezas del Zen: (Determinada al nacer, (+1) en la estadística)
+		-Combate  
+		-Defensa
+		-Acrobacia
+		-Evasión
+		-Precisión
+-----------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------
+Formas de combate:
+
+	Principios del Zen: (Consumen 1 punto de Zen)
+		Forma I:   Shii-Cho (Desarme e incapacitación mediante golpes horizontales y verticales) (+1 temporal en combate)
+		Forma II:  Makashi  (Combate fluido y ágil de pocos movimientos pero muy precisos)  	 (+1 temporal en precisión y acrobacia)
+		Forma III: Soresu   (Combate completamente defensivo capaz de reaccionar a proyectiles)  (+1 temporal en defensa y evasión)
+
+	Especialidades del Zen: (Consumen 3 puntos de Zen)
+		Forma IV:  Ataru    (Combate acrobático con gran evasión y golpes contundentes pero con poca precisión, malo en defensa y fisicamente exigente) (Es necesario minimo 4 de evasion, 3 de acrobacia y 1 de combate)   (+1 temporal)
+		Forma V:   Shien    (Ataques muy potentes con pocas maniobras y una defensa equilibrada, precisión normal y sin evasión)			(Es necesario minimo 4 de combate, 3 de defensa   y 1 de precisión) (+1 temporal)
+       		Forma VI:  Allu     (Defensa perfecta, con gran evasión que pretende desgastar fisicamente al rival pero con poca ofensiva y precisión)		(Es necesario minimo 4 de defensa, 3 de evasión   y 1 de acrobacia) (+1 temporal)
+
+	Momentos definitivos del Zen: (Consumen 6 puntos de Zen)
+		Forma VII:  Niman    (Combate perfectamente equilibrado en defensa, ataque, evasión, acrobacia y precisión sin destacar en ninguno)		(Es necesario minimo 15 de salud y dominar una especialidad) 	    (+3 temporal)
+		Forma VIII: Vaapad   (Combate violento y destructivo, perfecto en cada aspecto, pero que deja incapacitado al usuario)				(Es necesario minimo 7 de Combate y dominar una especialidad)  	    (+3 temporal)
+-----------------------------------------------------------------------------------------------------------------------------		
+
+
+
+---------------------------Historia---------------------------------- 
+Clanes: Daigo y Mizuka
+
+Durante una guerra feudal entre los principales clanes, el lider del clan Daigo, Tahomaru Daigo, hace un pacto con el Dios de la guerra, Yato.
+Ofreció el alma de 4 de sus soldados en contra de su voluntad para vencer en la guerra con la encarnación de Yato. Estos cuatro individuos fueron llevados al purgatorio de las almas.
+Con el objetivo de recuperar su humanidad los individuos tendran que atravesar y descubrir como regresar al mundo de los vivos mientras intentan que sus almas no sean tragadas
+por los seres que habitan en el purgatorio.
+
+(El purgatorio se divide en 5 niveles)
+ 
+
+Primer piso:
+	-Precisión:
+Se les da a conocer la existencia del Zen
+Descubren por rumores en la fila de almas que hubo un hombre que regreso del inframundo 
+
+
+
+
+
+
+El atacante tira combate con el número de dados que le corresponden al nivel de la estadística
+El atacado puede tirar defensa o evasión para contestar con el numero de dados que le corresponden al nivel de la estadística
+Si el atacante consigue ganar le restara un punto de salud al atacado
+Si el atacado consigue ganar en el caso de la defensa resistira el ataque y no habra cambios en la salud del atacado
+Si el atacado consigue ganar en el caso de la evasión con una ventaja de dos o superior ganara un aumento
+Un aumento permite hacer una tirada de precisión para un ataque inmediato sin que pueda defender el atacado, si es superior a dos restará un punto a la salud del atacado
